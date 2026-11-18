@@ -26,4 +26,4 @@ I'm Angela. I've been building software for 7 years (since I was 14), and I'm a 
 
 ---
 
-📫 If something here caught your eye, say hi at [hi@angelaparahinog.com](mailto:hi@angelaparahinog.com). I reply to everyone.
+📫 If something here caught your eye, say hi via [angelaparahinog.com](angelaparahinog.com). I reply to everyone.
