@@ -1,7 +1,6 @@
-# AngelaPar
+# Hi!
 [angelaparahinog.com](https://angelaparahinog.com)
 
-### Hi!
 I'm Angela. I've been building software for 7 years (since I was 14), and I'm a software engineering student focused on AI and full-stack. I love getting knee-deep in every stage of the dev cycle: client requirements, system design, full-stack and AI, deployment, and ops and infrastructure. Each of these stages feeds my curiosity in its own endless ways. On the side, I enjoy tinkering with hardware and grinding Dota.
 
 ### Mainly building
