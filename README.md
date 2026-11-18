@@ -11,6 +11,8 @@ I'm Angela. I've been building software for 7 years (since I was 14), and I'm a 
 ### Currently learning
 - Linux & ops (nginx, systemd, SSL, DNS), with my runbook at [linux-ops-notes](https://github.com/AngelaPar/linux-ops-notes)
 
+---
+
 ### Stack
 **AI**  
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)  
